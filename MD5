@@ -1,0 +1,10 @@
+991b369c32755b050f3a4c2064f3b083 *DESCRIPTION
+50a4ef7971a0e3e186c1055a2031d8b4 *NAMESPACE
+dddfbb63628520470b7982c649bbf05b *R/partitionBEFsp_man.R
+810c7ef5a6d67d37e2b847d2f2dda726 *R/partitioning_functions.R
+6c247cc34798623beb6adb2bd0b2f71e *inst/CITATION
+6a83d32083fb5d9849818cf60812f5cc *man/calculate_DRY.Rd
+270de850aa2d6b8ea8363ec4bfdc9348 *man/classic_partition.Rd
+054c4ea18cfa2c063c53f67d5d7924bf *man/partitionBEFsp.Rd
+0893c8ba84934899ae185ed8b3050591 *man/population_to_sample_partition.Rd
+fd94f2438ed8f6877c047783ead11ee1 *man/sample_to_population_partition.Rd

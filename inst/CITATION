@@ -1,0 +1,11 @@
+bibentry(bibtype = "Article",
+         title = "How to estimate complementarity and selection effects from an incomplete sample of species",
+         author = c(person("Adam T.", "Clark"),
+                    person("Kathryn E.", "Barry"),
+                    person("Christiane", "Roscher"),
+                    person("Tina", "Buchmann"),
+                    person("Michel", "Loreau"),
+                    person("W. Stanley", "Harpole")),
+         journal = "Methods in Ecology and Evolution",
+         year = "in press",
+         url = "")
